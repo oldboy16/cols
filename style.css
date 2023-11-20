@@ -1,0 +1,20 @@
+.box{
+    height: 200px;
+    background-color: rgba(0, 164, 104, 0.761);
+    border: 5px solid white;
+}
+.boxs{
+    background-color: rgba(0, 164, 104, 0.761);
+    border: 5px solid white;
+    height: 100px;
+    padding-top: 15px;
+}
+.span{
+    background-color: rgba(0, 164, 104, 0.761);
+    border: 5px solid white;
+    height: 100px;
+    padding-top: 15px;
+}
+.hero{
+    margin-top: 100px;
+}
